@@ -1,5 +1,7 @@
-# Exam #3: "Web Application I"
-## Student: s265389 PACE DANIELE 
+##Usage
+in the project folder:
+`cd client & npm install & npm start`
+`cd server & npm install & npm start`
 
 ## React client application routes
 
